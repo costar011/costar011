@@ -2,4 +2,4 @@
 
 ### 👋 Hello welcome to my GitHub ❤️
 
-[![costar011](https://github-profile-costar011.vercel.app/?username=costar011)](https://github.com/costar011/github-profile-costar011)
+[![costar011](https://github-profile-trophy.vercel.app/?username=costar011&theme=onedark)](https://github.com/ryo-ma/github-profile-costar011)
