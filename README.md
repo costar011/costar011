@@ -1,13 +1,14 @@
-### Ye Rim -- costar011
+# Ye Rim -- costar011
 
-### Live with no time out. --- Simone de Beauvoir
+## Live with no time out. --- Simone de Beauvoir
 
 ### 👋 Hello welcome to my GitHub ❤️
 
 
-### ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-### 📩 Contacts
-<div align=center flex-direction:"row">
+# ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+## 📩 Contacts
+
+<div align=center flex-direction:"row-reverse" p>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/costar011/)](https://github.com/costar011/)
 
