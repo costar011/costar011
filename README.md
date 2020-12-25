@@ -7,7 +7,7 @@
 
 ### ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 ### 📩 Contacts
-<div align=center width=100% height=150px>
+<div align=center flex-direction:"row">
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/costar011/)](https://github.com/costar011/)
 
@@ -16,8 +16,6 @@
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcostar011&count_bg=%2352E188&title_bg=%233AB895&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=costar011)](https://solved.ac/kinetic27)
 
 [![costar011](https://github-profile-trophy.vercel.app/?username=costar011&theme=onedark)](https://github.com/costar011)
 
