@@ -5,8 +5,8 @@
 ### 👋 Hello welcome to my GitHub ❤️
 
 <div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcostar011&count_bg=%2352E188&title_bg=%233AB895&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%231E7CAC&title_bg=%233AACED&icon=github.svg&icon_color=%23E7E7E7&title=My+Git&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
 
