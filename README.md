@@ -27,4 +27,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=compact)](https://github.com/costar011/github-readme-stats)
 
-<script src="https://gist.github.com/costar011/89436a8228f10a2dd94214a5bfe0141c.js"></script>
+
