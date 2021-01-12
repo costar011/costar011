@@ -4,12 +4,6 @@
 
 ### 👋 Hello welcome to my GitHub ❤️
 
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%231E7CAC&title_bg=%233AACED&icon=github.svg&icon_color=%23E7E7E7&title=My+Git&edge_flat=true)](https://hits.seeyoufarm.com)
-
-</div>
-
 ### 📩 Contacts
 
 <div align=center>
@@ -25,6 +19,6 @@
 
 ![yerim's github stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=compact)](https://github.com/costar011/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=radical)](https://github.com/costar011/github-readme-stats)
 
 
