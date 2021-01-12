@@ -1,6 +1,6 @@
 # 😍 Ye Rim -- costar011 😍
 
-## Live with no time out. --- Simone de Beauvoir
+# A goal without a plan is just a wish. -- Antoine De Saint-Exupéry
 
 ### 👋 Hello welcome to my GitHub ❤️
 
