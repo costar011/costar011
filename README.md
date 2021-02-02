@@ -1,8 +1,5 @@
-# 😍 Ye Rim -- costar011 😍
-
-## A goal without a plan is just a wish. -- Antoine De Saint-Exupéry
-
-## 👋 Hello welcome to my GitHub ❤️
+# 😍 Ye Rim -- costar011 😍 Welcome To My GitHub 🌟
+- A goal without a plan is just a wish. -- Antoine De Saint-Exupéry
 
 ## Teach 📝
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/riosee2415/)
