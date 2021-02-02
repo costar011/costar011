@@ -4,10 +4,9 @@
 
 ## 👋 Hello welcome to my GitHub ❤️
 
-### 📩 Contacts
-
-
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/riosee2415/)
+
+### 📩 Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)
 
