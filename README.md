@@ -9,5 +9,5 @@
 ### Views 🔎
 [![costar011](https://github-profile-trophy.vercel.app/?username=costar011&theme=onedark)](https://github.com/costar011)
 
-[![costar011's GitHub stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=dracula)](https://github.com/costar011/github-readme-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=compact&show_icons=true&theme=dracula)](https://github.com/costar011/github-readme-stats)
+[![costar011's GitHub stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=dracula)](https://github.com/costar011/github-readme-stats)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=compact&show_icons=true&theme=dracula)](https://github.com/costar011/github-readme-stats)
 	
