@@ -11,5 +11,3 @@
 
 [![costar011's GitHub stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=dracula)](https://github.com/costar011/github-readme-stats) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=compact&show_icons=true&theme=dracula)](https://github.com/costar011/github-readme-stats)
 
-### 
-<img src="xmlns=http://www.w3.org/2000/svg?style=flat-square&logo=React&logoColor=#61DAFB"/></a>&nbsp 
