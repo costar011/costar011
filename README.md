@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=YR_GitHub&fontSize=90&fontColor=fff" />
 
-- A goal without a plan is just a wish. -- Antoine De Saint-Exupéry
+- When we cannot get what we love, we must love what is within our reach - French proverb
 
 ### 📩 Contact 📩
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
