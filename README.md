@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=YR Git&fontSize=90&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=yerim's GitHub&fontSize=75&fontColor=fff" />
 
 - When we cannot get what we love, we must love what is within our reach - French proverb
 
