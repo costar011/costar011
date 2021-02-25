@@ -8,7 +8,7 @@
 
 ### Followers 👥
 <a href="https://github.com/costar011/">
-    <img src="https://img.shields.io/github/followers/costar011?style=dracula" style="height : auto;"/>
+    <img src="https://img.shields.io/github/followers/costar011?style=onedark" style="height : auto;"/>
 </a>
 
 ## Study Languages 💬
