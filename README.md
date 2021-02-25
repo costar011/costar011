@@ -6,6 +6,10 @@
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
 [![instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dpfla_03/)](https://www.instagram.com/dpfla_03/)
 
+<a href="https://github.com/costar011/">
+    <img src="https://img.shields.io/github/followers/costar011?style=social" style="height : auto;"/>
+</a>
+
 ## Study Languages 💬
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
