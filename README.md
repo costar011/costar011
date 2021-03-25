@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=YeRim's GitHub&fontSize=75&fontColor=fff" />
 
-- When we cannot get what we love, we must love what is within our reach - French proverb
+- Don't find fault, find a remedy. - Herry Ford
 
 ## Contact 📩
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
