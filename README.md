@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=YeRim's GitHub&fontSize=75&fontColor=fff" />
 
-- Don't find fault, find a remedy. - Herry Ford
+- Nil desperandum
 
 ## Contact 📩
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
