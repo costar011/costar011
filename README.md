@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=YeRim's GitHub&fontSize=75&fontColor=fff" />
 
-- Do not be afraid to give up the good to go for the great.
+- Sperandum est infestis.
 
 ## Contact 📩
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
