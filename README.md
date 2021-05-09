@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=YeRim's GitHub&fontSize=80&fontColor=fff&animation=fadeIn />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=YeRim's GitHub&fontSize=80&fontColor=fff />
 
 - Sperandum est infestis.
 
