@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=200&section=header&text=YeRim.Dev GitHub&fontSize=80&fontColor=fff"/>
 
-- Sperandum est infestis.
+- Let's go invent tomorrow rather than worrying about what happened yesterday. - Steve Jobs
 
 ## Contact 📨
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
