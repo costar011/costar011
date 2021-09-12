@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=200&section=header&text=YeRim.Dev GitHub&fontSize=80&fontColor=fff"/>
 
-- Let's go invent tomorrow rather than worrying about what happened yesterday - Steve Jobs
+- "The only way to get what you want in this world is through hard work"
 
 ## Contact 📨
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
