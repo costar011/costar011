@@ -50,6 +50,6 @@
 
 [![costar011's github stats](https://github-readme-stats.vercel.app/api?username=utilForever&show_icons=true&theme=dracula)](https://github.com/costar011)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utilForever&layout=compact&langs_count=8&theme=dracula)](https://github.com/costar011)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=compact&langs_count=8&theme=dracula)](https://github.com/costar011)
 
 ![costar011's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=costar011)
