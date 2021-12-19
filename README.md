@@ -47,6 +47,6 @@
 [![costar011's github stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=dracula)](https://github.com/costar011)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=compact&langs_count=8&theme=dracula)](https://github.com/costar011)
 
-[![costar011](https://github-profile-trophy.vercel.app/?username=costar011&theme=onedark)](https://github.com/costar011)
-
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=utilforever&theme=calm)](https://github.com/costar011)
+
+[![costar011](https://github-profile-trophy.vercel.app/?username=costar011&theme=onedark)](https://github.com/costar011)
