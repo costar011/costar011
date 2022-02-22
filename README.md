@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=200&section=header&text=Yerim's GitHub Page!&fontSize=80&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=200&section=header&text=yerim's GitHub&fontSize=80&fontColor=fff"/>
 
 - "The only way to get what you want in this world is through hard work"
 
