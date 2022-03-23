@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=200&section=header&text=yerim's GitHub&fontSize=80&fontColor=fff"/>
-
-![Snake animation](https://github.com/costar011/ryansilva/blob/output/github-contribution-grid-snake.svg)
 
 ## Contact 📨
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
