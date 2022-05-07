@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/costar011?style=social" style="height : auto;"/>
 </a>
 
-### Study Languages 📃
+### Things I code with
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
