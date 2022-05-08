@@ -1,3 +1,10 @@
+# Welcome to my github 💙
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+> I am a student developer 😄
+> Nice meet you 🙌🏻
+
 
 ## Where to find me ☑️
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
