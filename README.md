@@ -54,7 +54,8 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=costar011&theme=cold)
 
 [![costar011's github stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=dracula)](https://github.com/costar011)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=compact&langs_count=8&theme=dracula)](https://github.com/costar011)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=compact&langs_count=10&theme=dracula)](https://github.com/costar011)
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=utilforever&theme=calm)](https://github.com/costar011)
 
