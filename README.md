@@ -1,4 +1,4 @@
-# Welcome to my github 💙
+![header](https://capsule-render.vercel.app/api?type=waving&color=5BB7FF&height=300&section=header&text=YeRim_GitHub&fontColor=FFFFFF&fontSize=100&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
