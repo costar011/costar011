@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5BB7FF&height=300&section=header&text=YeRim_GitHub&fontColor=FFFFFF&fontSize=100&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=26d7ff&height=300&section=header&text=YeRim_GitHub&fontColor=FFFFFF&fontSize=100&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
 
 # welcome to my github 🥰
 
