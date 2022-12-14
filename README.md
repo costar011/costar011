@@ -4,7 +4,7 @@
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-> I am a **student developer** 😄 *Nice meet you *
+> I am a **student developer** 😄 * *Nice meet you* *
 
 
 ## Where to find me ✅
