@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1103a3&height=300&section=header&text=YeRim_GitHub&fontColor=FFFFFF&fontSize=100&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/costar011/count.svg" />
+</p>
+
+
 # welcome to my github 🥰
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
