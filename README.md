@@ -3,7 +3,7 @@
 
 # welcome to my github 💕
 
->  *Nice meet you* 
+>  *Nice meet you 👋🏻* 
 
 
 ## Where to find me ✅
