@@ -1,16 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1103a3&height=300&section=header&text=YeRim_GitHub&fontColor=FFFFFF&fontSize=100&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
 
 
-# welcome to my github 💕
-
->  *Nice meet you 👋🏻* 
-
-
 ## Where to find me ✅
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
 [![instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.yerim/)](https://www.instagram.com/dev.yerim/)
 
-### Things I code with 💓
+### Stack
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
@@ -22,6 +17,9 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>&nbsp;
+  <a href="https://pugjs.org/api/getting-started.html">		
+  <img src="https://img.shields.io/badge/PUG-A86454?style=flat-badge&logo=PUG&logoColor=white"/>
+  </a> 
  </p>
  
  ### DownLoad Tool Link 📃
