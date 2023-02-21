@@ -20,9 +20,18 @@
   <a href="https://pugjs.org/api/getting-started.html">		
   <img src="https://img.shields.io/badge/PUG-A86454?style=flat-badge&logo=PUG&logoColor=white"/>
   </a> 
+  <a href="https://git-scm.com/"> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-badge&logo=git&logoColor=white"/>
+  </a> 
+  <a href="https://www.python.org/"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://www.adobe.com/kr/products/xd.html"> 
+  <img src="https://img.shields.io/badge/Adobexd-FF61F6?style=flat-badge&logo=Adobexd&logoColor=white"/>
+  </a>
  </p>
  
- ### DownLoad Tool Link 📃
+ ### DownLoad Tool
  <div align="center">
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
@@ -30,13 +39,18 @@
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> </a>
+ <a href="https://visualstudio.microsoft.com/ko/"> 
+ <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/> </a>  
+ <a href="https://code.visualstudio.com/"> 
+ <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/> </a>  
+ <a href="https://www.mysql.com/"> 
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/> </a>  
 </div>
 
 
