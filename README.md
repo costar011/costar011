@@ -39,7 +39,6 @@
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
@@ -50,7 +49,11 @@
  <a href="https://code.visualstudio.com/"> 
  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/> </a>  
  <a href="https://www.mysql.com/"> 
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/> </a>  
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/> </a>
+ <a href="https://www.mongodb.com/ko-kr"> 
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-badge&logo=MongoDB&logoColor=white"/> </a>
+ <a href="https://developer.apple.com/kr/xcode/"> 	
+ <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-badge&logo=Xcode&logoColor=white"/> </a>
 </div>
 
 
