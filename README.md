@@ -47,7 +47,7 @@
  <a href="https://developer.apple.com/kr/xcode/"> 	
  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-badge&logo=Xcode&logoColor=white"/> </a>
 
- <a href="https://nodejs.org/en/about/resources/"> 
+ <a href="https://nodejs.org/en/"> 
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/>
  </a> 
  
