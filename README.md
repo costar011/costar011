@@ -32,29 +32,42 @@
  </p>
  
  ### DownLoad Tool
- <div align="center">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />
+ <p align="center">
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> </a>
+  
  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/> </a>  
+ 
  <a href="https://code.visualstudio.com/"> 
  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/> </a>  
+ 
  <a href="https://www.mysql.com/"> 
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/> </a>
+ 
  <a href="https://www.mongodb.com/ko-kr"> 
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-badge&logo=MongoDB&logoColor=white"/> </a>
+ 
  <a href="https://developer.apple.com/kr/xcode/"> 	
  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-badge&logo=Xcode&logoColor=white"/> </a>
-</div>
 
+ <a href="https://nodejs.org/en/about/resources/"> 
+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/>
+ </a> 
+ 
+ <a href="https://expressjs.com/ko/"> 
+ <img src="https://img.shields.io/badge/Express-000000?style=flat-badge&logo=Express&logoColor=white"/>
+ </a> 
+
+ <a href="https://expo.dev/"> 
+ <img src="https://img.shields.io/badge/Expo-000020?style=flat-badge&logo=Expo&logoColor=white"/>
+ </a>
+
+ <a href="https://developer.android.com/studio"> 
+ <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-badge&logo=AndroidStudio&logoColor=white"/>
+ </a>
+ 
+ <a href="https://reactjs.org/"> 
+ <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-badge&logo=React&logoColor=white"/>
+</a> 
 
 ## Views 💡
 <a href=#><img src="contributions.svg"></a>
