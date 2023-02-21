@@ -44,7 +44,6 @@
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> </a>
- <a href="https://visualstudio.microsoft.com/ko/"> 
  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/> </a>  
  <a href="https://code.visualstudio.com/"> 
  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/> </a>  
