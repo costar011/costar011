@@ -32,9 +32,7 @@
  </p>
  
  ### DownLoad Tool
- <p align="center">
- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> </a>
-  
+ <p align="center">  
  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/> </a>  
  
  <a href="https://code.visualstudio.com/"> 
