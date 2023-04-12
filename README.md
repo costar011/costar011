@@ -89,14 +89,13 @@
 ## Views 💡
 <a href=#><img src="contributions.svg"></a>
 
-<p align="center">
-<a href="https://github.com/costar011?tab=stars">
-<img src="https://github-readme-stats.vercel.app/api?username=costar011&theme=react&show_icons=true"/>
-</a>
-
 <p align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/costar011/count.svg" />
+  
+  <a href="https://github.com/costar011?tab=stars">
+    <img src="https://github-readme-stats.vercel.app/api?username=costar011&theme=react&show_icons=true"/>
+  </a>
 </p>
 
 
