@@ -98,7 +98,7 @@
 <p align="center">
 <a href="https://github.com/costar011?tab=stars">
 <img src="https://github-readme-stats.vercel.app/api?username=costar011&theme=react&show_icons=true"/>
-</a> &nbsp 
+</a>
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=utilforever&theme=calm)](https://github.com/costar011)
 
