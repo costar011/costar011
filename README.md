@@ -100,7 +100,7 @@
 [![costar011](https://github-profile-trophy.vercel.app/?username=costar011&theme=onedark)](https://github.com/costar011)
 
 [![Solved.ac
-costar011](http://mazassumnida.wtf/api/v2/generate_badge?boj={costar011})](https://solved.ac/{handle})
+costar011](http://mazassumnida.wtf/api/v2/generate_badge?boj={costar011})](https://solved.ac/{costar011})
 
 <a href="https://github.com/costar011?tab=stars">
     <img src="https://github-readme-stats.vercel.app/api?username=costar011&theme=react&show_icons=true"/>
