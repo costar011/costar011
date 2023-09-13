@@ -99,11 +99,4 @@
 
 [![costar011](https://github-profile-trophy.vercel.app/?username=costar011&theme=onedark)](https://github.com/costar011)
 
-<a href="https://github.com/costar011?tab=stars">
-    <img src="https://github-readme-stats.vercel.app/api?username=costar011&theme=react&show_icons=true"/>
-</a>
-
-<a href="https://github.com/costar011?tab=repositories">	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&theme=react&layout=compact"/>
-</a>
 
