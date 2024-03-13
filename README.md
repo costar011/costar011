@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1103a3&height=300&section=header&text=My_Portfolio&fontColor=FFFFFF&fontSize=100&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
 
 
-## This is me
+## My email & instagram
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
 [![instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.yerim/)](https://www.instagram.com/dev.yerim/)
 <a href="https://github.com/costar011"> 
