@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1103a3&height=300&section=header&text=YeRim's_Profile&fontColor=FFF&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54F7F5&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB+%2C+I+am+YeRim;Majored+in++Computer+Engineering;Passionate+college+student+coder+;Welcome+to+My+profile+!!)](https://git.io/typing-svg)
 
 ## My email & instagram
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
