@@ -99,8 +99,7 @@
 
 <!--   green snake -->
 ![costar011's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-| .          
+<!--   stats + languages -->         
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=utilforever&theme=calm)](https://github.com/costar011)
 
