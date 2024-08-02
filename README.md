@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1103a3&height=400&section=header&text=Welcometomyprofile&fontColor=FFF&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1103a3&height=300&section=header&text=YeRim's_Profile&fontColor=FFF&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
 
 
 ## My email & instagram
