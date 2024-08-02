@@ -94,6 +94,14 @@
   <img src="https://profile-counter.glitch.me/costar011/count.svg" />
 </p>
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![costar011's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->
+| .          
+
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=utilforever&theme=calm)](https://github.com/costar011)
 
 [![costar011](https://github-profile-trophy.vercel.app/?username=costar011&theme=onedark)](https://github.com/costar011)
