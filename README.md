@@ -106,11 +106,11 @@
 
 [![costar011](https://github-profile-trophy.vercel.app/?username=costar011&theme=onedark)](https://github.com/costar011)
 
-![Costar's GitHub stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=highcontrast)
+![Costar011's GitHub stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=costar011&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Costar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=costar011&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=costar011)](https://solved.ac/costar011)
 
