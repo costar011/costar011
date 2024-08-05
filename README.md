@@ -106,7 +106,7 @@
 
 [![costar011](https://github-profile-trophy.vercel.app/?username=costar011&theme=onedark)](https://github.com/costar011)
 
-![Costar's GitHub stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=radical)
+![Costar's GitHub stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=highcontrast)
 
-![Costar's GitHub stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=highcontrast)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=costar011)](https://solved.ac/costar011)
 
