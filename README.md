@@ -110,3 +110,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=costar011)](https://solved.ac/costar011)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=Demo&theme=highcontrast)
+
