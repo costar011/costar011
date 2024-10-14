@@ -8,32 +8,6 @@
 <a href="https://github.com/costar011"> 
 <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white"/>
 </a>
-
-### Stack
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQl&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>&nbsp;
-  <a href="https://pugjs.org/api/getting-started.html">		
-  <img src="https://img.shields.io/badge/PUG-A86454?style=flat-badge&logo=PUG&logoColor=white"/>
-  </a> 
-  <a href="https://git-scm.com/"> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-badge&logo=git&logoColor=white"/>
-  </a> 
-  <a href="https://www.python.org/"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/>
-  </a>
-  <a href="https://www.adobe.com/kr/products/xd.html"> 
-  <img src="https://img.shields.io/badge/Adobexd-FF61F6?style=flat-badge&logo=Adobexd&logoColor=white"/>
-  </a>
- </p>
  
  ### DownLoad Tool
  <p align="center">  
