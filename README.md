@@ -9,58 +9,6 @@
 <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white"/>
 </a>
  
- ### DownLoad Tool
- <p align="center">  
- <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/> </a>  
- 
- <a href="https://code.visualstudio.com/"> 
- <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/> </a>  
- 
- <a href="https://www.mysql.com/"> 
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/> </a>
- 
- <a href="https://www.mongodb.com/ko-kr"> 
- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-badge&logo=MongoDB&logoColor=white"/> </a>
- 
- <a href="https://developer.apple.com/kr/xcode/"> 	
- <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-badge&logo=Xcode&logoColor=white"/> </a>
-
- <a href="https://nodejs.org/en/"> 
- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/>
- </a> 
- 
- <a href="https://expressjs.com/ko/"> 
- <img src="https://img.shields.io/badge/Express-000000?style=flat-badge&logo=Express&logoColor=white"/>
- </a> 
-
- <a href="https://expo.dev/"> 
- <img src="https://img.shields.io/badge/Expo-000020?style=flat-badge&logo=Expo&logoColor=white"/>
- </a>
-
- <a href="https://developer.android.com/studio"> 
- <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-badge&logo=AndroidStudio&logoColor=white"/>
- </a>
- 
- <a href="https://reactjs.org/"> 
- <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-badge&logo=React&logoColor=white"/>
- </a> 
-
- <a href="https://reactjs.org/"> 
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white"/>
- </a>
- 
- <a href="https://typescript.org/"> 
- <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-badge&logo=TypeScript&logoColor=white"/>
- </a>
- 
- <a href="https://www.postman.com/"> 
- <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"/>
- </a>
- 
- <a href="https://nextjs.org/"> 
- <img src="https://img.shields.io/badge/Next-000000?style=flat-badge&logo=Next&logoColor=white"/>
- </a>
- 
 ## Views 💡
 <a href=#><img src="contributions.svg"></a>
 
