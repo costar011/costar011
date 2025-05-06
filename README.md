@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=40aff5&height=300&section=header&text=Welcome❣️&fontColor=FFF&fontSize=70&animation=fadeIn&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=40aff5&height=300&section=header&text=Welcome&fontColor=FFF&fontSize=70&animation=fadeIn&fontAlignY=30)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54F7F5&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB+%2C+I+am+YeRim;Majored+in++Computer+Engineering;Passionate+college+student+coder+;Welcome+to+My+profile+!!)](https://git.io/typing-svg)
 
