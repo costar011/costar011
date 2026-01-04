@@ -3,9 +3,6 @@
 ## My email & instagram
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerim.dev@gmail.com)](mailto:yerim.dev@gmail.com)&nbsp;
 [![instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.yerim/)](https://www.instagram.com/dev.yerim/)
-<a href="https://github.com/costar011"> 
-<img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white"/>
-</a>
  
 ## Views 💡
 <a href=#><img src="contributions.svg"></a>
@@ -16,9 +13,3 @@
 <!--   green snake -->
 ![costar011's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->         
-
-[![costar011](https://github-profile-trophy.vercel.app/?username=costar011&theme=onedark)](https://github.com/costar011)
-
-![Costar011's GitHub stats](https://github-readme-stats.vercel.app/api?username=costar011&show_icons=true&theme=highcontrast)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costar011&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
